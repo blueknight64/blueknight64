@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blueknight64
 - 👀 I’m interested in doing stuff i never tried before
-- 🌱 I’m currently learning nothing lmao
+- 🌱 I’m currently learning gamemaker studio
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: YOU CANT
 
